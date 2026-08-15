@@ -107,7 +107,7 @@ Wykorzystano:
    * regresję liniową
    * współczynnik determinacji  R²
    * korelację rang Spearmana
-   test istotności statystycznej korelacji
+   * test istotności statystycznej korelacji
 
 Model regresji liniowej przyjął postać:
 

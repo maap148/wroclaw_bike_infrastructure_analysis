@@ -27,7 +27,7 @@ Projekt ma charakter eksploaracyjnej analizy przestrzennej. Wartość "potencjal
 
 Podstawą analizy były dane liniowe dotyczące infrastruktury rowerowej we Wrocławiu, pozyskane z:
 
-- [SIP Wrocławia](https://geoportal.wroclaw.pl/www/pliki/DaneRowerowe/TrasyRowerowe.zip) — główne źródło danych o infrastrukturze,
+- [SIP Wrocławia](https://geoportal.wroclaw.pl/zasoby/) — główne źródło danych o infrastrukturze,
 
 Dane pobrano: **sierpień 2026**.
 
@@ -63,7 +63,7 @@ Wskaźnik obliczono według wzoru:
 
 Źródło warstwy powierzchni zabudowanej:
 
-- [Urząd Marszałkowski Województwa Dolnośląskiego](https://geoportal.dolnyslask.pl/getfile/open/bdot10k/0264_powiat_m_Wroclaw.zip)
+- [Urząd Marszałkowski Województwa Dolnośląskiego](https://geoportal.dolnyslask.pl/cat/usr/umwd-wodgik-wroclaw/mapa/nieodplatne-udostepnianie-bazy-bdot-k-5obbg)
 
 ## Układ współrzędnych
 
@@ -102,7 +102,7 @@ Pozwala to określić czy infrastruktura danego osiedla opiera się przede wszys
 Do wizualizacji przestrzennej wybranych zmiennych użyto metodę naturalnych przerw (Jenksa), dobierając klasy oddzielnie dla każdej analizy.
 
 ## Zależność między stopniem zabudowania a gęstością infrastruktury
-Następnie przeanalizowano zalezność pomiędzy udziałem powierzchni zabudowanej a gęstością infrastruktury rowerowej
+Następnie przeanalizowano zależność pomiędzy udziałem powierzchni zabudowanej a gęstością infrastruktury rowerowej
 Wykorzystano:
    * regresję liniową
    * współczynnik determinacji  R²

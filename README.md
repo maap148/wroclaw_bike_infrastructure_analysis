@@ -346,6 +346,8 @@ Rozkład klas pozwala określić czy potencjalny deficyt wrocławskich osiedli m
 
 Najczęściej występującymi typami potencjalnego deficytu były typ 1 oraz typ 2, które łącznie obejmowały 28 z 48 analizowanych osiedli (58,33%). Typ 5 nie wystąpił w żadnym z analizowanych osiedli.
 
+15 osiedli charakteryzuje się ujemnym odchyleniem we wszystkich trzech analizowanych kategoriach infrastruktury. Oznacza to, że ich rzeczywista gęstość jest niższa od wartości oczekiwanej przez zastosowany model. Wynik ten nie powinien być jednak utożsamiany bezpośrednio z rzeczywistym niedoborem infrastruktury, ponieważ model nie uwzględnia wszystkich uwarunkowań przestrzennych wpływających na możliwość lokalizacji infrastruktury rowerowej.
+
 # Mapy
 
 ## 1. Gęstość całkowitej infrastruktury rowerowej
@@ -375,6 +377,10 @@ Najczęściej występującymi typami potencjalnego deficytu były typ 1 oraz typ
 
 
 # Ograniczenia
+
+## Uwarunkowania przestrzenne
+
+Na uzyskane wyniki mogą wypływać m.in. uwarunkowania topograficzne, hydrologiczne oraz sposób zagospodarowania terenu. W przypadku osiedli obejmujących duży udział powierzchni wód, terenów zalewowych i podmokłych, kompleksów leśnych lub innych obszarów o ograniczonej możliwości zagospodarowania terenu, niższa gęstość infrastruktury może być częściowo uzasadniona charakterem przestrzennym tych jednostek. Nie wszystkie uwarunkowania są brane pod uwagę przez opracowany model - natomiast dalszy rozwój analizy mógłby obejmować uwzględnienie kolejnych zmiennych przestrzennych.
 
 ## Charakter modelu oczekiwanej gęstości
 

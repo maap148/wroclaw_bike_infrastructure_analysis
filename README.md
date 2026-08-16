@@ -363,7 +363,7 @@ Najczęściej występującymi typami potencjalnego deficytu były typ 1 oraz typ
 
 ## 6. Typ potencjalnego deficytu infrastruktury rowerowej
 
-![Typ potencjalnego potencjalnego deficytu infrastruktury rowerowej](maps\github\pl\map_6_Types_of_potential_bike_infra_deficit_wroclaw_PL.png)
+![Typ potencjalnego potencjalnego deficytu infrastruktury rowerowej](maps/github/pl/map_6_Types_of_potential_bike_infra_deficit_wroclaw_PL.png)
 
 
 

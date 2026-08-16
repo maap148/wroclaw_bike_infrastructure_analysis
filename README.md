@@ -1,5 +1,12 @@
 # Dostępność i potencjalny deficyt instrastruktury rowerowej we Wrocławiu
 
+## Najważniejsze informacje
+
+- Analiza objęła **48 osiedli Wrocławia**.
+- Infrastrukturę sklasyfikowano w trzech kategoriach: dedykowana, współdzielona z ruchem ogólnym oraz rekreacyjna i uzupełniająca.
+- Zależność między udziałem powierzchni zabudowanej a gęstością infrastruktury była silna i dodatnia (`ρ = 0,807`, `R² = 0,5723`).
+- Wyniki przedstawiono na sześciu mapach oraz trzech wykresach.
+
 ## Cel projektu
 
 Celem projektu jest analiza przestrzennego rozmieszczenia, gęstości oraz struktury infrastruktury rowerowej we Wrocławiu z podziałem na osiedla.

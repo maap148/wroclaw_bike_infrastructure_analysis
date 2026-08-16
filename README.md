@@ -18,7 +18,7 @@ W pierwszym etapie analizowana jest całkowita długość i gęstość infrastru
 
 W drugim etapie analizowany jest związek pomiędzy stopniem zabudowania osiedli a gęstościa infrastruktury rowerowej. Na postawie tej zależności wyznaczana jest oczekiwana gęstość infrastruktury dla poszczególnych osiedli, a następnie obliczane jest odchylenie gęstości rzeczywistej od wartości oczekiwanej. 
 
-Pozwala to wskazać osiedla, w których gęstość infrastruktury jest niższa od wartośći wynikającej z obserwowanego wzorca, oraz pozwala określić strukture potencjalnego deficytu gęstości infrastruktury rowerowej. 
+Pozwala to wskazać osiedla, w których gęstość infrastruktury jest niższa od wartości wynikającej z obserwowanego wzorca, oraz pozwala określić strukture potencjalnego deficytu gęstości infrastruktury rowerowej. 
 
 Projekt ma charakter eksploaracyjnej analizy przestrzennej. Wartość "potencjalnego deficytu" oznacza odchylenie od wartości oczekiwanej przez model statystyczny i nie stanowi bezpośredniej miary rzeczywistego zapotrzebowania na infrastrukturę.
 
@@ -87,7 +87,7 @@ Dla każdego osiedla obliczono
    * długośc infrastruktury współdzielonej z ruchem ogólnym
    * całkowitą długość infrastruktury rowerowej
 
-Długośći zostały przeliczone z metrów na kilometry
+Długości zostały przeliczone z metrów na kilometry
 
 ## Gęstość infrastruktury
 W celu umożliwienia porównania osiedli o różnej powierzchni obliczono gęstość infrastruktury:
@@ -227,7 +227,7 @@ Najmniejszą całkowitą długościa infrastruktury charakteryzują się
 | 9 | Plac Grunwaldzki | 17.20 |
 | 10 | Żerniki | 17.35 |
 
-Sama całkowita długość infrastruktury nie uwzględnia jednak różnic w powierzchni osiedli. Z tego względu kolejnym etapem analizy było obliczenie gęstośći infrastruktury.
+Sama całkowita długość infrastruktury nie uwzględnia jednak różnic w powierzchni osiedli. Z tego względu kolejnym etapem analizy było obliczenie gęstości infrastruktury.
 
 ## Gęstość infrastruktury
 
@@ -282,7 +282,7 @@ Analiza wykazała silną dodatnią zależność pomiędzy udziałem powierzchni 
 
 Współczynnik korelacji rang Spearmana wyniósł ρ = 0,807, wskazując na silną dodatnią zależność monotoniczną. Zależność była statystycznie istotna (p < 0,001)
 
-Model regrecji liniowej osiągnał R² = 0,5723, co oznacza że udział powierzchni zabudowanej wyjaśnia około 57,2% zróżnicowania gęstośći infrastruktury rowerowej w analizownym zbiorze.
+Model regrecji liniowej osiągnał R² = 0,5723, co oznacza że udział powierzchni zabudowanej wyjaśnia około 57,2% zróżnicowania gęstości infrastruktury rowerowej w analizownym zbiorze.
 
 ![Zależność udziału powierzchni zabudowanej i gęstości infrastruktury rowerowej](charts/graph_1_powierzchnia_zabudowana_gestosc_infrastruktury.png)
 

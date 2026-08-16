@@ -80,7 +80,7 @@ Dla każdego osiedla obliczono
    * długośc infrastruktury współdzielonej z ruchem ogólnym
    * całkowitą długość infrastruktury rowerowej
 
-Długośći zostały przeliczone z metrów na kilometry
+Długości zostały przeliczone z metrów na kilometry
 
 ## Gęstość infrastruktury
 W celu umożliwienia porównania osiedli o różnej powierzchni obliczono gęstość infrastruktury:
@@ -299,7 +299,7 @@ Ujemne odchylenie oznacza, że rzeczywista gęstość na danym osiedlu jest niż
 
 Wynik ten należy interpretować jako potencjalny deficyt względem modelowanego wzorca, a nie jako bezpośrednią miarę rzeczywistego zapotrzebowania na infrastrukturę.
 
-## Struktura potencjalnego deficytu gęstości ifrastruktury rowerowej
+## Struktura potencjalnego deficytu gęstości infrastruktury rowerowej
 Analiza struktury potencjalnego deficytu pokazuje, że osiedla o dużym ujemnym odchyleniu całkowitym niekoniecznie charakteryzują sie deficytem wszystkich kategorii infrastruktury.
 
 Przykładowo Gądów - Popowice Płd. posiada największe ujemne odchylenie całkowite (-3,73 km/km²), jednak odchylenia dla infrastruktury rekreacyjnej i uzupełniającej (+1,28 km/km²) oraz współdzielonej (+2,76 km/km²) są dodatnie. potencjalny deficyt dotyczy przede wszystkim infrastruktury dedykowanej (-0,98 km/km²).
@@ -373,7 +373,7 @@ Najczęściej występującymi typami potencjalnego deficytu były typ 1 oraz typ
 
 Oczekiwana gęstość infrastruktury została wyznaczona na podstawie zależności statystycznej pomiędzy udziałem powierzchni zabudowanej a rzeczywistą gęstością infrastruktury.
 
-Nie jest to normatywny standard ani wartość określająca rzeczywiste zapotrzebowanie lokalnej społeczności
+Nie jest to normatywny standard ani wartość określająca rzeczywiste zapotrzebowanie lokalnej społeczności.
 
 ## Interpretacja potencjalnego deficytu
 

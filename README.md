@@ -250,18 +250,18 @@ Najwyższe wartości wskaźnika uzyskały:
 
 Najniższe wartości uzyskały:
 
-| Miejsce | Osiedle | Gęstość [km/km²] |
-|---|---|---:|
-| 1 | Kowale | 3.64 |
-| 2 | Sołtysowice | 3.44 |
-| 3 | Psie Pole - Zawidawie | 3.35 |
-| 4 | Leśnica | 3.29 |
-| 5 | Pawłowice | 3.27 |
-| 6 | Księże | 2.85 |
-| 7 | Pracze Odrzańskie | 2.64 |
-| 8 | Bieńkowice | 2.54 |
-| 9 | Świniary | 1.42 |
-| 10 | Jerzmanowo - Jarnołtów - Strachowice - Osiniec | 1.34 |
+| Miejsce | Osiedle                                        | Gęstość [km/km²] |
+|--------:|-----------------------------------------------|-----------------:|
+| 1       | Jerzmanowo - Jarnołtów - Strachowice - Osiniec | 1,34 |
+| 2       | Świniary                                       | 1,42 |
+| 3       | Bieńkowice                                     | 2,54 |
+| 4       | Pracze Odrzańskie                              | 2,64 |
+| 5       | Księże                                         | 2,85 |
+| 6       | Pawłowice                                      | 3,27 |
+| 7       | Leśnica                                        | 3,29 |
+| 8       | Psie Pole - Zawidawie                          | 3,35 |
+| 9       | Sołtysowice                                    | 3,44 |
+| 10      | Kowale                                         | 3,64 |
 
 Wskażnik pozwala porównać poziom koncentracji infrastruktury pomiędzy osiedlami niezależnie od ich powierzchni.
 
